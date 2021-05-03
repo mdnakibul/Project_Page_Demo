@@ -34,8 +34,9 @@
 
 /*Banner start*/
 #banner{
-    background: url('../image/banner.jpg') no-repeat 0 35%;
+    background: url('../image/banner.jpg') no-repeat 0 0;
     background-size: cover;
+    background-position: center;
 }
 .banner-title{
     padding-top: 8rem;
@@ -91,6 +92,7 @@
     
     background: url('../image/testimonials.jpg') no-repeat 0 0;
     background-size: cover;
+    background-position: center;
     padding: 50px 0;
    
     color: white;
